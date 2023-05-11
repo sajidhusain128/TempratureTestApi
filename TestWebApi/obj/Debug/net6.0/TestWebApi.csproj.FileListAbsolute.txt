@@ -1,0 +1,146 @@
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\appsettings.Development.json
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\appsettings.json
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\TestWebApi.exe
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\TestWebApi.deps.json
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\TestWebApi.runtimeconfig.json
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\TestWebApi.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\TestWebApi.pdb
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.csproj.AssemblyReference.cache
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.AssemblyInfoInputs.cache
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.AssemblyInfo.cs
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.csproj.CoreCompileInputs.cache
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets\msbuild.TestWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.TestWebApi.props
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TestWebApi.props
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TestWebApi.props
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\scopedcss\bundle\TestWebApi.styles.css
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.csproj.CopyComplete
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\refint\TestWebApi.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.pdb
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.genruntimeconfig.cache
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\obj\Debug\net6.0\ref\TestWebApi.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\BAL.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Core.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\DAL.dll
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\BAL.pdb
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\DAL.pdb
+F:\Sajid\Test for Interview\TestWebApi\TestWebApi\bin\Debug\net6.0\Core.pdb
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\appsettings.Development.json
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\appsettings.json
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\TestWebApi.exe
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\TestWebApi.deps.json
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\TestWebApi.runtimeconfig.json
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\TestWebApi.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\TestWebApi.pdb
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\BAL.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Core.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\DAL.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\BAL.pdb
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\DAL.pdb
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\bin\Debug\net6.0\Core.pdb
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.csproj.AssemblyReference.cache
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.AssemblyInfoInputs.cache
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.AssemblyInfo.cs
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.csproj.CoreCompileInputs.cache
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets\msbuild.TestWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.TestWebApi.props
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TestWebApi.props
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TestWebApi.props
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets.build.json
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\staticwebassets.development.json
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\scopedcss\bundle\TestWebApi.styles.css
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.csproj.CopyComplete
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\refint\TestWebApi.dll
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.pdb
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\TestWebApi.genruntimeconfig.cache
+F:\Sajid\InterviewTest\TestWebApi\TestWebApi\obj\Debug\net6.0\ref\TestWebApi.dll

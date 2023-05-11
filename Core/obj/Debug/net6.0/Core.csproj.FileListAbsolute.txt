@@ -1,0 +1,24 @@
+F:\Sajid\Test for Interview\TestWebApi\Core\bin\Debug\net6.0\Core.deps.json
+F:\Sajid\Test for Interview\TestWebApi\Core\bin\Debug\net6.0\Core.dll
+F:\Sajid\Test for Interview\TestWebApi\Core\bin\Debug\net6.0\Core.pdb
+F:\Sajid\Test for Interview\TestWebApi\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\Sajid\Test for Interview\TestWebApi\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sajid\Test for Interview\TestWebApi\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\Sajid\Test for Interview\TestWebApi\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\Sajid\Test for Interview\TestWebApi\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\Sajid\Test for Interview\TestWebApi\Core\obj\Debug\net6.0\Core.dll
+F:\Sajid\Test for Interview\TestWebApi\Core\obj\Debug\net6.0\refint\Core.dll
+F:\Sajid\Test for Interview\TestWebApi\Core\obj\Debug\net6.0\Core.pdb
+F:\Sajid\Test for Interview\TestWebApi\Core\obj\Debug\net6.0\ref\Core.dll
+F:\Sajid\InterviewTest\TestWebApi\Core\bin\Debug\net6.0\Core.deps.json
+F:\Sajid\InterviewTest\TestWebApi\Core\bin\Debug\net6.0\Core.dll
+F:\Sajid\InterviewTest\TestWebApi\Core\bin\Debug\net6.0\Core.pdb
+F:\Sajid\InterviewTest\TestWebApi\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+F:\Sajid\InterviewTest\TestWebApi\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sajid\InterviewTest\TestWebApi\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+F:\Sajid\InterviewTest\TestWebApi\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+F:\Sajid\InterviewTest\TestWebApi\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+F:\Sajid\InterviewTest\TestWebApi\Core\obj\Debug\net6.0\Core.dll
+F:\Sajid\InterviewTest\TestWebApi\Core\obj\Debug\net6.0\refint\Core.dll
+F:\Sajid\InterviewTest\TestWebApi\Core\obj\Debug\net6.0\Core.pdb
+F:\Sajid\InterviewTest\TestWebApi\Core\obj\Debug\net6.0\ref\Core.dll

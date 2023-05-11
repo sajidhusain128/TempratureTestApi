@@ -1,0 +1,34 @@
+F:\Sajid\Test for Interview\TestWebApi\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\Sajid\Test for Interview\TestWebApi\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+F:\Sajid\Test for Interview\TestWebApi\DAL\bin\Debug\net6.0\DAL.dll
+F:\Sajid\Test for Interview\TestWebApi\DAL\bin\Debug\net6.0\DAL.pdb
+F:\Sajid\Test for Interview\TestWebApi\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\Sajid\Test for Interview\TestWebApi\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sajid\Test for Interview\TestWebApi\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\Sajid\Test for Interview\TestWebApi\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\Sajid\Test for Interview\TestWebApi\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\Sajid\Test for Interview\TestWebApi\DAL\obj\Debug\net6.0\DAL.dll
+F:\Sajid\Test for Interview\TestWebApi\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\Sajid\Test for Interview\TestWebApi\DAL\obj\Debug\net6.0\DAL.pdb
+F:\Sajid\Test for Interview\TestWebApi\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+F:\Sajid\Test for Interview\TestWebApi\DAL\obj\Debug\net6.0\ref\DAL.dll
+F:\Sajid\Test for Interview\TestWebApi\DAL\bin\Debug\net6.0\Core.dll
+F:\Sajid\Test for Interview\TestWebApi\DAL\bin\Debug\net6.0\Core.pdb
+F:\Sajid\Test for Interview\TestWebApi\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+F:\Sajid\InterviewTest\TestWebApi\DAL\bin\Debug\net6.0\DAL.deps.json
+F:\Sajid\InterviewTest\TestWebApi\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+F:\Sajid\InterviewTest\TestWebApi\DAL\bin\Debug\net6.0\DAL.dll
+F:\Sajid\InterviewTest\TestWebApi\DAL\bin\Debug\net6.0\DAL.pdb
+F:\Sajid\InterviewTest\TestWebApi\DAL\bin\Debug\net6.0\Core.dll
+F:\Sajid\InterviewTest\TestWebApi\DAL\bin\Debug\net6.0\Core.pdb
+F:\Sajid\InterviewTest\TestWebApi\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+F:\Sajid\InterviewTest\TestWebApi\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sajid\InterviewTest\TestWebApi\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+F:\Sajid\InterviewTest\TestWebApi\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+F:\Sajid\InterviewTest\TestWebApi\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+F:\Sajid\InterviewTest\TestWebApi\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+F:\Sajid\InterviewTest\TestWebApi\DAL\obj\Debug\net6.0\DAL.dll
+F:\Sajid\InterviewTest\TestWebApi\DAL\obj\Debug\net6.0\refint\DAL.dll
+F:\Sajid\InterviewTest\TestWebApi\DAL\obj\Debug\net6.0\DAL.pdb
+F:\Sajid\InterviewTest\TestWebApi\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+F:\Sajid\InterviewTest\TestWebApi\DAL\obj\Debug\net6.0\ref\DAL.dll

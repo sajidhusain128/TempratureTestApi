@@ -1,0 +1,34 @@
+F:\Sajid\Test for Interview\TestWebApi\BAL\bin\Debug\net6.0\BAL.deps.json
+F:\Sajid\Test for Interview\TestWebApi\BAL\bin\Debug\net6.0\BAL.dll
+F:\Sajid\Test for Interview\TestWebApi\BAL\bin\Debug\net6.0\BAL.pdb
+F:\Sajid\Test for Interview\TestWebApi\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+F:\Sajid\Test for Interview\TestWebApi\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sajid\Test for Interview\TestWebApi\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+F:\Sajid\Test for Interview\TestWebApi\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+F:\Sajid\Test for Interview\TestWebApi\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+F:\Sajid\Test for Interview\TestWebApi\BAL\obj\Debug\net6.0\BAL.dll
+F:\Sajid\Test for Interview\TestWebApi\BAL\obj\Debug\net6.0\refint\BAL.dll
+F:\Sajid\Test for Interview\TestWebApi\BAL\obj\Debug\net6.0\BAL.pdb
+F:\Sajid\Test for Interview\TestWebApi\BAL\obj\Debug\net6.0\ref\BAL.dll
+F:\Sajid\Test for Interview\TestWebApi\BAL\bin\Debug\net6.0\Core.dll
+F:\Sajid\Test for Interview\TestWebApi\BAL\bin\Debug\net6.0\DAL.dll
+F:\Sajid\Test for Interview\TestWebApi\BAL\bin\Debug\net6.0\Core.pdb
+F:\Sajid\Test for Interview\TestWebApi\BAL\bin\Debug\net6.0\DAL.pdb
+F:\Sajid\Test for Interview\TestWebApi\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
+F:\Sajid\InterviewTest\TestWebApi\BAL\bin\Debug\net6.0\BAL.deps.json
+F:\Sajid\InterviewTest\TestWebApi\BAL\bin\Debug\net6.0\BAL.dll
+F:\Sajid\InterviewTest\TestWebApi\BAL\bin\Debug\net6.0\BAL.pdb
+F:\Sajid\InterviewTest\TestWebApi\BAL\bin\Debug\net6.0\Core.dll
+F:\Sajid\InterviewTest\TestWebApi\BAL\bin\Debug\net6.0\DAL.dll
+F:\Sajid\InterviewTest\TestWebApi\BAL\bin\Debug\net6.0\Core.pdb
+F:\Sajid\InterviewTest\TestWebApi\BAL\bin\Debug\net6.0\DAL.pdb
+F:\Sajid\InterviewTest\TestWebApi\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+F:\Sajid\InterviewTest\TestWebApi\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sajid\InterviewTest\TestWebApi\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+F:\Sajid\InterviewTest\TestWebApi\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+F:\Sajid\InterviewTest\TestWebApi\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+F:\Sajid\InterviewTest\TestWebApi\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
+F:\Sajid\InterviewTest\TestWebApi\BAL\obj\Debug\net6.0\BAL.dll
+F:\Sajid\InterviewTest\TestWebApi\BAL\obj\Debug\net6.0\refint\BAL.dll
+F:\Sajid\InterviewTest\TestWebApi\BAL\obj\Debug\net6.0\BAL.pdb
+F:\Sajid\InterviewTest\TestWebApi\BAL\obj\Debug\net6.0\ref\BAL.dll
